@@ -197,7 +197,7 @@ We can save this `R` Script as "my_first_r_script.R" ("File" $\rightarrow$ "Save
 
 One of the key packages that we will use is the `tidyverse` [@tidyverse]. The `tidyverse` is actually a package of packages, which means when we install the `tidyverse`, we actually install a whole bunch of different packages. The key package in the `tidyverse` in terms of manipulating data is `dplyr` [@citedplyr].
 
-There are five `dplyr` functions that are regularly used, and we will now go through each of these. These are commonly referred to as the `dplyr` verbs.
+👉 There are five `dplyr` functions that are regularly used, and we will now go through each of these. These are commonly referred to as the `dplyr` verbs.
 
 1.  `select()`
 2.  `filter()`
